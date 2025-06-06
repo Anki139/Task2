@@ -92,3 +92,8 @@ Support private messaging (DMs)
 Improve UI with Tailwind CSS or Material UI
 
 **
+output:
+
+![Image](https://github.com/user-attachments/assets/883a4db5-de22-479c-81ac-589031fb955d)
+
+![Image](https://github.com/user-attachments/assets/18122ec5-895c-4586-a438-a15356988ef2)
